@@ -1,2 +1,1 @@
-# Is-flight-on-time-
-Prediction of delay of a flight considering various parameters
+In this project, Prediction of whether a flight will be delayed or not is carried out. Various parameters are considered such as given source airport, destination airport, departure scheduled time, arrival scheduled time etc. to predict the delay of a flight.
